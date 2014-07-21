@@ -1,3 +1,5 @@
+[ ![Codeship Status for norris-solutions/CSipSimple](https://www.codeship.io/projects/e23089e0-f346-0131-a47e-6a1bcd925291/status)](https://www.codeship.io/projects/27855)
+----
 CSipSimple is an open-source native SIP client for Android
 
 See http://www.csipsimple.com for more info
