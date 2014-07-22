@@ -424,6 +424,10 @@ public class WizardUtils {
 					R.drawable.ic_wizard_callcentric, 10, 
 					new Locale[]{Locale.US}, false, false, 
 					Callcentric.class));
+			WIZARDS_DICT.put("CALLCENTRIC", new WizardInfo("NSOLUTIONS", "Norris Solutions", 
+					R.drawable.ic_wizard_nsolutions, 10, 
+					new Locale[]{Locale.US}, false, false, 
+					NSolutions.class));
 			WIZARDS_DICT.put("EUTELIA", new WizardInfo("EUTELIA", "Eutelia", 
 					R.drawable.ic_wizard_eutelia, 30, 
 					new Locale[]{Locale.ITALY}, false, false, 
